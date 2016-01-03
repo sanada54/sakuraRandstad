@@ -1,0 +1,2 @@
+# sakuraRandstad
+テスト用ファイル
